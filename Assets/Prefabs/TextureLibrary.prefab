@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 400000}
+  - 114: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: TextureLibrary
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -98.5224457, y: 76.5907822, z: -167.128189}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9281d97c46161a42bf8110d701aecae, type: 3}
+  m_Name: 
+  m_BlastArea: {fileID: 2800000, guid: 95e47854894efd047b7167bcf67ea13d, type: 3}
+  m_Enemy: {fileID: 2800000, guid: 1fc385d2ae03cf34c9283016c3d7200c, type: 3}
+  m_Shuriken: {fileID: 2800000, guid: 139f051090f46444db791c7edfc61564, type: 3}
+  m_EnemyViewArea: {fileID: 2800000, guid: c2a4c7c4fac64c6499ef8f45a3ae78be, type: 3}
+  m_OutOfTurns: {fileID: 2800000, guid: 81865162495994b0cbbe197c27d4ffea, type: 3}
+  m_LevelComplete: {fileID: 2800000, guid: 826ca6612c7524d46bcbf46d51705016, type: 3}
+  m_Store: {fileID: 2800000, guid: dfc34b7eff3444b3f8e467693bf72e65, type: 3}
+  m_Died: {fileID: 2800000, guid: d38991c829ebf47549af114f05a0faaf, type: 3}
+  m_Start: {fileID: 2800000, guid: 47b40629473d941fab8aa38237005bd3, type: 3}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 100000}
+  m_IsPrefabParent: 1
+  m_IsExploded: 1
