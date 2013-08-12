@@ -70,7 +70,7 @@ PlayerSettings:
     16:9: 1
     Others: 1
   iPhoneBundleIdentifier: com.echopeak.ninja
-  productGUID: 3a1fc9dd6bce442c4bb6ba44cb844f02
+  productGUID: 8af98bf5503fc4aa8a9d4b73636f8e54
   iPhoneBundleVersion: 1.0
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 6
