@@ -530,6 +530,7 @@ ModelImporter:
     101048: Threeway_019
     101050: Threeway_020
     101052: Threeway_021
+    101054: ElectroGate
     400000: //RootNode
     400002: Plane003
     400004: Plane004
@@ -1057,6 +1058,7 @@ ModelImporter:
     401048: Threeway_019
     401050: Threeway_020
     401052: Threeway_021
+    401054: ElectroGate
     2300000: Plane003
     2300002: Plane004
     2300004: Room_01
@@ -1583,6 +1585,7 @@ ModelImporter:
     2301046: Threeway_019
     2301048: Threeway_020
     2301050: Threeway_021
+    2301052: ElectroGate
     3300000: Plane003
     3300002: Plane004
     3300004: Room_01
@@ -2109,6 +2112,7 @@ ModelImporter:
     3301046: Threeway_019
     3301048: Threeway_020
     3301050: Threeway_021
+    3301052: ElectroGate
     4300000: Room_01
     4300002: Plane003
     4300004: Plane004
@@ -2635,6 +2639,7 @@ ModelImporter:
     4301046: Pipe_standard_208
     4301048: Joiner_137
     4301050: Pipe_standard_209
+    4301052: ElectroGate
     9500000: //RootNode
   materials:
     importMaterials: 1
