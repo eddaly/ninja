@@ -25,10 +25,10 @@ public class CameraVolume : MonoBehaviour {
 		}
 	}
 	
-	void OnTriggerExit (Collider other) {
+	/*void OnTriggerExit (Collider other) {
 		if (other.name == "Ninja" )
 		{
 			Camera.main.transform.position = prev_cameraPosition;
 		}
-	}
+	}*/
 }
